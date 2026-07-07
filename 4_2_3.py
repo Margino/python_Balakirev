@@ -7,7 +7,7 @@
 # 3) полусредний вес – до 69 кг (включительно);
 # 4) остальные - более 69 кг.
 
-weight = float(input())
+weight = float(input('Weight: '))
 
 LIGHTWEIGHT_LIMIT = 60
 LIGHT_WELTERWEIGHT_LIMIT = 64
